@@ -1,5 +1,5 @@
-# CMOS-inverter
-Static and Dynamic Power Consumption of CMOS inverter
+# Static and Dynamic Power Consumption of CMOS inverter
+
 
 Here, we are using two sources: DC source for performing DC analysis and calculate static power consumption and Pulse source to perform transient analysis and calculate dynamic power consumption. 
 1) To analyse static power, first, enable the DC source and assign a variable voltage ‘Vin’ to it. Now sweep the design variable ‘Vin’ from 0 v to 1.8 v. Let the bias voltage ‘vdd’ be 1.8 v. 
